@@ -21,9 +21,12 @@
 package unsw.cse.rsg.essentialBits;
 
 public class Analyzer {
+	
+	String bitstream_name = "E:\\Dimitris-PC\\Development\\bitstreamMask\\top.bit";
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
 
 	}
 
